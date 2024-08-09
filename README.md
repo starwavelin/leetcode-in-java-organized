@@ -335,7 +335,7 @@ Supported list of problem categories for searching,
 | 245 | Shortest Word Distance III | Medium | | |
 | 244 | Shortest Word Distance II | Medium | | |
 | 243 | Shortest Word Distance | Easy |  |  |
-| 242 | Valid Anagram | Easy | Map, ArrayMap | [讲解](https://youtu.be/PaqSyN63kB8) |
+| 242 | [Valid Anagram](hash/ValidAnagram.java) | Easy | Map, ArrayMap | [讲解](https://youtu.be/PaqSyN63kB8) |
 | 241 | Different Ways to Add Parentheses | Medium |  |  |
 | 240 | Search a 2D Matrix II | Medium | Matrix | |
 | 239 | Sliding Window Maximum, Solution 2 | Hard | Sliding Window, Deque |  |
@@ -360,7 +360,7 @@ Supported list of problem categories for searching,
 | 220 | Contains Duplicate III | Medium | | |
 | 219 | Contains Duplicate II | Easy |  |  |
 | 218 | The Skyline Problem | Hard |  |  |
-| 217 | Contains Duplicate, Solution 2 | Easy | Set, Map |  |
+| 217 | [Contains Duplicate](array/ContainDuplicate.java) | Easy | Set, Map |  |
 | 216 | Combination Sum III | Medium | | |
 | 215 | Kth Largest Element in an Array | Medium | | |
 | 214 | Shortest Palindrome | Hard | | |

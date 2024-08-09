@@ -12,9 +12,10 @@ package array;
 import java.util.HashSet;
 import java.util.Set;
 
-class Sol {
 
-    public boolean containsDuplicate(int[] nums) {
+public class ContainDuplicate {
+
+    boolean containsDuplicate(int[] nums) {
         Set<Integer> set = new HashSet<>();
 
         for (int num : nums) {
@@ -26,17 +27,14 @@ class Sol {
 
         return false;
     }
-}
-
-public class ContainDuplicate {
 
     public static void main(String[] args) {
-        Sol sol1 = new Sol();
+        ContainDuplicate test1 = new ContainDuplicate();
         int[] nums1 = {1, 2, 3, 5, 1};
-        System.out.println(sol1.containsDuplicate(nums1)); // true
+        System.out.println(test1.containsDuplicate(nums1)); // true
 
-        Sol sol2 = new Sol();
+        ContainDuplicate test2 = new ContainDuplicate();
         int[] nums2 = {5, 8, 19, 4};
-        System.out.println(sol2.containsDuplicate(nums2)); // false
+        System.out.println(test2.containsDuplicate(nums2)); // false
     }
 }
