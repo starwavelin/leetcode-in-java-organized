@@ -512,7 +512,7 @@ Supported list of problem categories for searching,
 | 52  | N-Queens II | Hard | | |
 | 51  | N-Queens | Hard | | |
 | 50  | Pow(x, n) | Medium | | |
-| 49  | Group Anagrams, Solution 2 | Medium | Map | [讲解](https://www.youtube.com/watch?v=G0WEebYHJ-E) |
+| 49  | [Group Anagrams](hash/GroupAnagrams.java) | Medium | Map | [讲解](https://www.youtube.com/watch?v=G0WEebYHJ-E) |
 | 48  | Rotate Image | Medium | | |
 | 47  | Permutations II | Hard | | |
 | 46  | Permutations | Medium | | |
@@ -560,7 +560,7 @@ Supported list of problem categories for searching,
 | 4   | Median of Two Sorted Arrays | Hard | Sort, Merge Sort, Binary Search | [讲解 1](https://youtu.be/raYYmEwyJ0o) |
 | 3   | Longest Substring Without Repeating Characters, Solution 2 - using Set, Solution 3 - Sliding window but not using my template, Solution 4, Solution 5, Solution 6 | Medium | String, Map, Two Pointers, DP, Set | |
 | 2   | Add Two Numbers | Medium | | |
-| 1   | Two Sum | Medium | Two Pointers | 讲解 |
+| 1   | [Two Sum](array/two_pointers/TwoSumSol1.java) | Medium | Two Pointers | 讲解 |
 
 [[↑] Back to top](#leetcode-in-java-organized)
 
