@@ -227,7 +227,7 @@ Supported list of problem categories for searching,
 | 350 | Intersection of Two Arrays II | Easy | Two Pointers, Map | |
 | 349 | Intersection of Two Arrays | Easy | Two Pointers, Binary Search | |
 | 348 | Design Tic-Tac-Toe $ | Medium | | |
-| 347 | Top K Frequent Elements, Solution 2 MaxHeap, Solution 3 MinHeap, Solution 4 | Medium | Sort, Heap, Bucket Sort | |
+| 347 | [Top K Frequent Elements - 挤压法 minHeap](heap/TopKFrequentElementsSol1.java), Solution 2 | Medium | Heap, Bucket Sort | |
 | 346 | Moving Average from Data Stream $ | Easy | | |
 | 345 | Reverse Vowels of a String, Solution 2 | Easy | String, Two Pointers | |
 | 344 | Reverse String | Easy | | |
