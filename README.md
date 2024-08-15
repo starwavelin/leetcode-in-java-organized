@@ -303,7 +303,7 @@ Supported list of problem categories for searching,
 | 274 | H-Index | Medium | | |
 | 273 | Integer to English Words | Medium | | |
 | 272 | Closest Binary Search Tree Value II $ | Hard | | |
-| 271 | Encode and Decode Strings $ | Medium | Design, String | |
+| 271 | [Encode and Decode Strings $](data_structure/EncodeAndDecodeStrings.java) | Medium | Design, String | |
 | 270 | Closest Binary Search Tree Value $ | Easy | | |
 | 269 | Alien Dictionary $ | Hard | | |
 | 268 | Missing Number | Medium | | |
