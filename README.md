@@ -339,7 +339,7 @@ Supported list of problem categories for searching,
 | 241 | Different Ways to Add Parentheses | Medium |  |  |
 | 240 | Search a 2D Matrix II | Medium | Matrix | |
 | 239 | Sliding Window Maximum, Solution 2 | Hard | Sliding Window, Deque |  |
-| 238 | Product of Array Except Self, Solution 2 | Medium | Math, Array | |
+| 238 | [Product of Array Except Self](array/prefix_sum/ProductOfArrayExceptSelf.java) | Medium | Math, Array | |
 | 237 | Delete Node in a Linked List | Easy | | |
 | 236 | Lowest Common Ancestor of a Binary Tree | Medium | Binary Tree, Divide and Conquer | |
 | 235 | Lowest Common Ancestor of a Binary Search Tree, Solution 2 |Medium | Binary Search Tree, DFS |  |
