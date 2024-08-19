@@ -4,10 +4,10 @@
  * Date        : August 19, 2024
  * Author      : @codingbro
  *
- * meta        : tag-sliding-window
+ * meta        : tag-sliding-window, tag-substring
  ***************************************************************************/
 
-package array.sliding_window;
+package string.sliding_window;
 
 import java.util.HashSet;
 import java.util.Set;
