@@ -13,4 +13,16 @@ public class ArrayUtil {
         }
         System.out.println();
     }
+
+    public static void displayStringArray(String[] res) {
+        if (res.length == 0) {
+            System.out.println("The result set is empty");
+            return;
+        }
+
+        for (String str : res) {
+            System.out.print(" " + str);
+        }
+        System.out.println();
+    }
 }
