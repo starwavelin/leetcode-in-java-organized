@@ -558,7 +558,7 @@ Supported list of problem categories for searching,
 | 6   | ZigZag Conversion | Easy | | |
 | 5   | Longest Palindromic Substring | Medium | | |
 | 4   | Median of Two Sorted Arrays | Hard | Sort, Merge Sort, Binary Search | [讲解 1](https://youtu.be/raYYmEwyJ0o) |
-| 3   | Longest Substring Without Repeating Characters, Solution 2 - using Set, Solution 3 - Sliding window but not using my template, Solution 4, Solution 5, Solution 6 | Medium | String, Map, Two Pointers, DP, Set | |
+| 3   | [Longest Substring Without Repeating Characters - using Set](array/sliding_window/LongestSubstringWithoutRepeatingCharacters.java), Solution 2, Solution 3 - Sliding window but not using my template, Solution 4, Solution 5, Solution 6 | Medium | String, Map, Two Pointers, DP, Set | |
 | 2   | Add Two Numbers | Medium | | |
 | 1   | [Two Sum](array/two_pointers/TwoSumSol1.java) | Medium | Two Pointers | 讲解 |
 
