@@ -485,7 +485,7 @@ Supported list of problem categories for searching,
 | 79  | Word Search | Medium | | |
 | 78  | Subsets | Medium | | |
 | 77  | Combinations | Medium | | |
-| 76  | Minimum Window Substring, Solution 2, Solution 3 - my Template based on zjh | Hard | Sliding Window, Map | |
+| 76  | [Minimum Window Substring - template, haveCount + needCount](string/sliding_window/MinimumWindowSubstringSol1.java), Solution 2 | Hard | Sliding Window, Map | |
 | 75  | Sort Colors | Medium | Two Pointers, Sort | |
 | 74  | Search a 2D Matrix | Medium | Binary Search, Matrix | |
 | 73  | Set Matrix Zeroes | Medium | | |
