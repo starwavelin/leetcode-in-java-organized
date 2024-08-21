@@ -150,7 +150,7 @@ Supported list of problem categories for searching,
 | 433 | Minimum Genetic Mutation | Medium | | |
 | 432 | All O`one Data Structure | Hard | | |
 | 425 | Word Squares | Hard | | |
-| 424 | Longest Repeating Character Replacement, Solution 2 | Medium | Sliding Window | |
+| 424 | [Longest Repeating Character Replacement](string/sliding_window/LongestRepeatingCharacterReplacement.java) | Medium | Sliding Window | |
 | 423 | Reconstruct Original Digits from English | Medium | | |
 | 422 | Valid Word Square $ | Easy | | |
 | 421 | Maximum XOR of Two Numbers in an Array | Medium | | |
