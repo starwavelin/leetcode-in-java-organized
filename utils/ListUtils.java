@@ -1,5 +1,8 @@
 package utils;
 
+import linked_list.ListNode;
+
+import java.util.ArrayList;
 import java.util.List;
 
 public class ListUtils {
@@ -56,5 +59,16 @@ public class ListUtils {
             System.out.println();
         }
         System.out.println();
+    }
+
+    public static void displayLinkedList(ListNode head) {
+        List<Integer> res = new ArrayList<>();
+
+        while (head != null) {
+            res.add(head.val);
+            head = head.next;
+        }
+
+        ListUtils.displayIntegers(res);
     }
 }

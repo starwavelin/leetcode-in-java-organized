@@ -371,7 +371,7 @@ Supported list of problem categories for searching,
 | 209 | Minimum Size Subarray Sum | Medium | Sliding Window | |
 | 208 | Implement Trie (Prefix Tree) | Medium | Trie | |
 | 207 | Course Schedule | Medium | Graph, Topological Sort | |
-| 206 | Reverse Linked List, Solution 2, Solution 3 | Easy | Linked List | |
+| 206 | [Reverse Linked List](linked_list/ReverseLinkedListSol1.java), Solution 2, Solution 3 | Easy | Linked List | |
 | 205 | Isomorphic Strings | Easy | | |
 | 204 | Count Primes | Easy | | |
 | 203 | Remove Linked List Elements | Easy | | |
