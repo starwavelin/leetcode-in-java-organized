@@ -38,6 +38,7 @@ public class MinimumWindowSubstringSol1 {
             if (mapT.containsKey(cur) && mapS.get(cur).equals(mapT.get(cur))) {
                 // Note 1: In Java I cannot directly use mapT.get(cur) > 0 b/c possible null pointer exception
                 // 2: In Java, Number object comparison should use .equals() instead of ==
+                // 3. haveCount's increment occurs when cur's count in mapS exactly equals the count in mapT (not >=)
                 haveCount++;
             }
 
