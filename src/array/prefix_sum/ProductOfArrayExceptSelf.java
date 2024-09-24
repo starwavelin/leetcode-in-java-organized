@@ -1,3 +1,12 @@
+/***************************************************************************
+ * Problem No. : 238
+ * Problem Name: Product of Array Except Self
+ * Date        : September 23, 2024
+ * Author      : @codingbro
+ *
+ * meta        : tag-prefix-sum
+ ***************************************************************************/
+
 package array.prefix_sum;
 
 import utils.ArrayUtil;
